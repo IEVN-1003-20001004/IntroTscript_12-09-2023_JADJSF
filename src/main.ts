@@ -1,5 +1,10 @@
 import './style.css'
+/*import './ejemplos-ts/01-tipos-basicos.ts'
+import './ejemplos-ts/02-obj-interfaz-arre.ts'
+import './ejemplos-ts/03-funciones.ts'
 import './ejemplos-ts/04-desestructuracion-obj-arre.ts'
+import './ejemplos-ts/05-desestructura-funciones.ts'*/
+import './ejemplos-ts/06-importar-exportar.ts'
 import typescriptLogo from './typescript.svg'
 import viteLogo from '/vite.svg'
 import { setupCounter } from './counter.ts'
