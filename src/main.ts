@@ -3,8 +3,10 @@ import './style.css'
 import './ejemplos-ts/02-obj-interfaz-arre.ts'
 import './ejemplos-ts/03-funciones.ts'
 import './ejemplos-ts/04-desestructuracion-obj-arre.ts'
-import './ejemplos-ts/05-desestructura-funciones.ts'*/
-import './ejemplos-ts/06-importar-exportar.ts'
+import './ejemplos-ts/05-desestructura-funciones.ts'
+import './ejemplos-ts/06-importar-exportar.ts'*/
+import './ejemplos-ts/07-clases.ts'
+import './ejemplos-ts/08-herencia.ts'
 import typescriptLogo from './typescript.svg'
 import viteLogo from '/vite.svg'
 import { setupCounter } from './counter.ts'
